@@ -1,1 +1,1 @@
-Greeting, my name is Marco Penso, I like reading and videogames, dislike eggplants and a lot of words in the english language. I hope to become more proficient the use of computers through this class, glad to make your aquaintance.
+Greeting, my name is Marco Penso, I like reading and videogames, dislike eggplants and a lot of words in the english language. I hope to become more proficient in the use of computers through this class, glad to make your aquaintance.
